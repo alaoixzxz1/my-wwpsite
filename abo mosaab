@@ -11,10 +11,4 @@
       font-family: 'Tajawal', sans-serif;
       padding: 20px;
     }
-  </style>
-</head>
-<body>
-  <h1>مرحباً بك!</h1>
-  <p>هذه صفحتي على الويب 😄</p>
-</body>
-</html>
+  
